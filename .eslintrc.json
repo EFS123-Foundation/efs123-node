@@ -5,7 +5,6 @@
       "files": ["**/*.js", "**/*.jsx"],
       "rules": {
         "indent": ["error", 4],
-        "no-bitwise": "off",
         "no-var-requires": "off",
         "semi": ["error", "always"]
       }
